@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Book Catalog</string>
+    <string name="add_book">Add new book</string>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string name="genre_unknown">Unknown</string>
+    <string name="genre_thriller">Thriller</string>
+    <string name="genre_guide">Guide</string>
+    <string name="genre_novel">Novel</string>
+    <string name="genre_biography">Biography</string>
+    <string name="genre_for_kids">For kids</string>
+    <string name="genre_fantasy">Fantasy</string>
+    <string name="genre_romance">Romance</string>
+    <string name="genre_scientific">Scientific</string>
+</resources>
