@@ -11,4 +11,8 @@
     <string name="genre_fantasy">Fantasy</string>
     <string name="genre_romance">Romance</string>
     <string name="genre_scientific">Scientific</string>
+    <string name="delete_all_msg">Delete all products?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
 </resources>

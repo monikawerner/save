@@ -16,7 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".EditorActivity"></activity>
+        <activity android:name=".EditorActivity"
+            android:parentActivityName=".CatalogActivity">
+        </activity>
+        <provider
+            android:name=".data.BookProvider"
+            android:authorities="com.example.monika.mybookcatalog"
+            android:exported="false" />
     </application>
 
 </manifest>
